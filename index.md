@@ -1,7 +1,7 @@
 
 # Robert Belford's Open Educational Resources
 
-Welcome! This site provides links to my open educational resources in github.io.
+Welcome! This site provides links to my open educational resources in github.io. The Spring and Fall courses connect to a nanoHub with packages preinstalled
 
 ## Jupyter Books
 
