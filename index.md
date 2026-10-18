@@ -12,4 +12,4 @@ Welcome! This site provides links to my open educational resources in github.io.
   Intercollegiate course on data chemistry.
   
 * ### [Spring 2026 Cheminformatics OLCC](https://rebelford.github.io/2026Cheminformatics/content/intro.html)
-  Intercollegiate course on cheminformatics.
+  Intercollegiate course on cheminformatics.  Note, this was a special topics course that built off of the Data Chemistry OLCC.
