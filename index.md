@@ -1,7 +1,7 @@
 
-# Robert Belford's Open Educational Resources
+# Bob Belford's OER Landing Page
 
-Welcome! This site provides links to my open educational resources in github.io. The Spring and Fall courses connect to a nanoHub with packages preinstalled
+Welcome! This site is under construction and provides links to my Jupyter Books hosted in github.io. The books connect to both GitHub repositories where you can download or clone the notebooks and to a nanoHub tool with packages preinstalled.
 
 ## Jupyter Books
 
