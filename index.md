@@ -9,7 +9,23 @@ Welcome! This site is under construction and provides links to my Jupyter Books 
 * [Spring 2026 Cheminformatics OLCC](https://rebelford.github.io/2026Cheminformatics/content/intro.html)
   Intercollegiate course on cheminformatics.  Note, this was a special topics course that built off of the Data Chemistry OLCC.
 * [Fall 2025 Data Chemistry OLCC](https://rebelford.github.io/DataChem2025Book/content/index.html)
-  Intercollegiate course on data chemistry.
+  Intercollegiate course on data chemistry.  [nanoHUB portal](https://nanohub.org/tools/datachemolcc)
 * [Spring 2025 Python for Science](https://rebelford.github.io/py4scibook/content/index.html)
-  Introduction to Python programming and package management for physical science students.
+  Introduction to Python programming and package management for physical science students. [nanoHUB portal](https://nanohub.org/tools/datachemolcc)
+  
 ## Other Resources
+* [rebelford GitHub Repo](https://github.com/rebelford)
+* [CCCE GitHub Repo](https://github.com/DivCHED-CCCE)
+* [UALR email](https://mail.ualr.edu/)
+* [UALR](https://ualr.edu/)
+* [Spod Visualization RShiny App](https://hulatin.shinyapps.io/SPOD_Viz_App/)
+* [Spring 2025 Python for Science](https://rebelford.github.io/py4scibook/content/index.html)
+
+## UALR LibreTexts Courses
+* [IOST Library](https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/IOST_Library)
+* [Spring 2023 IOST](https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/IOST_Library/Spring_2023%3A_IoST)
+* [Spring 2024 Physical Computing](https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/IOST_Library/Spring_2024%3A_Physical_Computing_Class)
+* [Fall 2019 Cheminformatics OLCC](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics)
+* [Preparatory Chemistry](https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/Chem_1300%3A_Preparatory_Chemistry)
+* [General Chemistry 1](https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/Chem_1402%3A_General_Chemistry_1_(Belford))
+* [General Chemistry 2](https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/Chem_1403%3A_General_Chemistry_2)
