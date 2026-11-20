@@ -19,7 +19,6 @@ Welcome! This site is under construction and provides links to my Jupyter Books 
 * [UALR email](https://mail.ualr.edu/)
 * [UALR](https://ualr.edu/)
 * [Spod Visualization RShiny App](https://hulatin.shinyapps.io/SPOD_Viz_App/)
-* [Spring 2025 Python for Science](https://rebelford.github.io/py4scibook/content/index.html)
 
 ## UALR LibreTexts Courses
 * [IOST Library](https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/IOST_Library)
